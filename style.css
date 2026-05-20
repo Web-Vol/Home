@@ -1,7 +1,13 @@
 h1, h2, h3, h4, p {
     color: #ff0000; /* Corrected hex color */
     text-align: center; /* Corrected spelling */
-    font: Impact;
+    font: helvetica;
+}
+
+h1{
+    color: #ff0000; /* Corrected hex color */
+    text-align: center; /* Corrected spelling */ 
+    font: impact;
 }
 
 body {
